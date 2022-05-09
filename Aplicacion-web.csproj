@@ -75,7 +75,7 @@
     <Content Include="assets\img\testimonial.png" />
     <Content Include="assets\js\scripts.js" />
     <Content Include="assets\js\swiper-bundle.min.js" />
-    <Content Include="Test-SGB.html" />
+    <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
